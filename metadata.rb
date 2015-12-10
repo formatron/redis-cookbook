@@ -1,3 +1,6 @@
 name 'formatron_redis'
 version '0.1.0'
+description 'Formatron Redis cookbook'
+source_url 'https://github.com/formatron/redis-cookbook'
+issues_url 'https://github.com/formatron/redis-cookbook/issues'
 supports 'ubuntu'
